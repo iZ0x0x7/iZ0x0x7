@@ -1,15 +1,9 @@
-Yo.
+Systems Engineer | Software Developer.
 
-I am iZ0, aka iZ0x0x7.
+Open source advocate. Linux/Unix preference. (BSD/Debian/RHEL)
 
-Systems Engineer and Software Developer.
-
-Open source advocate. Linux/Unix preference. (RHEL/CentOS/Fedora) (Debian)
-
-Write code in multiple languages. (Shell, PowerShell, Python, Ruby, C++, Go, PHP, SQL, Swift, Java, Kotlin)
+Shell, PowerShell, Python, Go
 
 Focus on automation tools and security programs. 
 
 Exploit craft, deployments, cloud, vrtualization, API, kernel.
-
-Reach out for collaborations. Let's work. 
